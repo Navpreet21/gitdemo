@@ -1,2 +1,2 @@
 # gitdemo
-Tesy repo for Q&amp;A class.
+Test repo for Q&amp;A class.
